@@ -1,0 +1,22 @@
+# Python Virtual Environments
+.venv/
+env/
+__pycache__/
+*.py[cod]
+
+# IDEs
+.vscode/
+.idea/
+
+# Environment Variables & Keys
+.env
+
+# Renders & Run Artifacts
+workspace/runs/
+workspace/exports/
+output/
+assets/mascot/animated_loops/*.webm
+
+# OS files
+.DS_Store
+Thumbs.db
